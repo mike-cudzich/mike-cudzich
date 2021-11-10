@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @mike-cudzich
-- 📫 Reach me on Slack @michal.cudzich or via email michal.cudzich@betterworks.com
+- 📫 Reach me on Slack @mike.c or via email michal.cudzich@betterworks.com
 - Beyond the dev world I enjoy working on my van conversion, old beemer motorcycles and hiking/camping. 
 
 <!---
